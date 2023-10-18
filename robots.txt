@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://codetroy.com/sitemap.xml
+Sitemap: https://codetroy.site/sitemap.xml

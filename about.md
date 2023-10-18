@@ -6,7 +6,7 @@ permalink: /about/
 
 # Welcome to CODE TROY!
 
-Welcome, tech enthusiasts, developers, and curious minds to [CODE TROY](https://codetroy.com/)! 🎉 This blog serves as a beacon for those who aspire to expand their knowledge in the diverse and dynamic field of programming. Whether you're a seasoned coder or someone who's just embarking on their programming journey, CODE TROY is here to offer insight, guidance, and support in your endeavors.
+Welcome, tech enthusiasts, developers, and curious minds to [CODE TROY](https://codetroy.site/)! 🎉 This blog serves as a beacon for those who aspire to expand their knowledge in the diverse and dynamic field of programming. Whether you're a seasoned coder or someone who's just embarking on their programming journey, CODE TROY is here to offer insight, guidance, and support in your endeavors.
 
 ## 🌟 **What is CODE TROY?**
 
@@ -25,7 +25,7 @@ Our vision at CODE TROY is to cultivate a community where learning and sharing o
 
 ## 🤝 **Get Involved**
 
-We encourage you to [visit our blog](https://codetroy.com/) and explore the wealth of resources we offer. Feel free to engage in the discussions, ask questions, and share your knowledge and experiences. We believe in collaborative learning and are excited to see the community grow and flourish.
+We encourage you to [visit our blog](https://codetroy.site/) and explore the wealth of resources we offer. Feel free to engage in the discussions, ask questions, and share your knowledge and experiences. We believe in collaborative learning and are excited to see the community grow and flourish.
 
 If you find our content helpful, consider subscribing to our newsletter to stay updated on the latest posts and discussions. We're excited to have you with us on this journey and are looking forward to building a thriving community of like-minded individuals.
 
